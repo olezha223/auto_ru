@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "Регион": "adygeya",
+      "Марка": "Lada (ВАЗ)",
+      "Кол-во об. марки": "650",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/vaz/all/",
+      "Модель": "Granta",
+      "Кол-во об. модели": "249",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/vaz/granta/all/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Lada (ВАЗ)",
+      "Кол-во об. марки": "650",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/vaz/all/",
+      "Модель": "Vesta",
+      "Кол-во об. модели": "202",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/vaz/vesta/all/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Lada (ВАЗ)",
+      "Кол-во об. марки": "650",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/vaz/all/",
+      "Модель": "Niva",
+      "Кол-во об. модели": "43",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/vaz/niva/all/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Lada (ВАЗ)",
+      "Кол-во об. марки": "650",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/vaz/all/",
+      "Модель": "Niva Legend",
+      "Кол-во об. модели": "37",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/vaz/niva_legend/all/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Lada (ВАЗ)",
+      "Кол-во об. марки": "650",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/vaz/all/",
+      "Модель": "Priora",
+      "Кол-во об. модели": "21",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/vaz/2170/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Toyota",
+      "Кол-во об. марки": "32",
+      "Ссылка на марку": "https://auto.ru/altay/cars/toyota/all/",
+      "Модель": "Camry",
+      "Кол-во об. модели": "6",
+      "Ссылка на модель": "https://auto.ru/altay/cars/toyota/camry/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Toyota",
+      "Кол-во об. марки": "32",
+      "Ссылка на марку": "https://auto.ru/altay/cars/toyota/all/",
+      "Модель": "RAV4",
+      "Кол-во об. модели": "5",
+      "Ссылка на модель": "https://auto.ru/altay/cars/toyota/rav_4/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Toyota",
+      "Кол-во об. марки": "32",
+      "Ссылка на марку": "https://auto.ru/altay/cars/toyota/all/",
+      "Модель": "Corolla",
+      "Кол-во об. модели": "3",
+      "Ссылка на модель": "https://auto.ru/altay/cars/toyota/corolla/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Toyota",
+      "Кол-во об. марки": "32",
+      "Ссылка на марку": "https://auto.ru/altay/cars/toyota/all/",
+      "Модель": "Allion",
+      "Кол-во об. модели": "3",
+      "Ссылка на модель": "https://auto.ru/altay/cars/toyota/allion/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Toyota",
+      "Кол-во об. марки": "32",
+      "Ссылка на марку": "https://auto.ru/altay/cars/toyota/all/",
+      "Модель": "Land Cruiser",
+      "Кол-во об. модели": "2",
+      "Ссылка на модель": "https://auto.ru/altay/cars/toyota/land_cruiser/used/"
+    }
+  ]
+}

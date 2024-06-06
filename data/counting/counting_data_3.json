@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "Регион": "adygeya",
+      "Марка": "Tank",
+      "Кол-во об. марки": "62",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/tank/all/",
+      "Модель": "300",
+      "Кол-во об. модели": "36",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/tank/300/new/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Tank",
+      "Кол-во об. марки": "62",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/tank/all/",
+      "Модель": "500",
+      "Кол-во об. модели": "26",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/tank/500/new/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Subaru",
+      "Кол-во об. марки": "6",
+      "Ссылка на марку": "https://auto.ru/altay/cars/subaru/all/",
+      "Модель": "Tribeca",
+      "Кол-во об. модели": "2",
+      "Ссылка на модель": "https://auto.ru/altay/cars/subaru/b9_tribeca/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Subaru",
+      "Кол-во об. марки": "6",
+      "Ссылка на марку": "https://auto.ru/altay/cars/subaru/all/",
+      "Модель": "Outback",
+      "Кол-во об. модели": "1",
+      "Ссылка на модель": "https://auto.ru/altay/cars/subaru/outback/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Subaru",
+      "Кол-во об. марки": "6",
+      "Ссылка на марку": "https://auto.ru/altay/cars/subaru/all/",
+      "Модель": "Legacy Lancaster",
+      "Кол-во об. модели": "1",
+      "Ссылка на модель": "https://auto.ru/altay/cars/subaru/legacy_lancaster/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Subaru",
+      "Кол-во об. марки": "6",
+      "Ссылка на марку": "https://auto.ru/altay/cars/subaru/all/",
+      "Модель": "Legacy",
+      "Кол-во об. модели": "1",
+      "Ссылка на модель": "https://auto.ru/altay/cars/subaru/legacy/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Subaru",
+      "Кол-во об. марки": "6",
+      "Ссылка на марку": "https://auto.ru/altay/cars/subaru/all/",
+      "Модель": "Forester",
+      "Кол-во об. модели": "1",
+      "Ссылка на модель": "https://auto.ru/altay/cars/subaru/forester/used/"
+    }
+  ]
+}

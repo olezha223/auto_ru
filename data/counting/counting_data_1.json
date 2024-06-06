@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "Регион": "adygeya",
+      "Марка": "Geely",
+      "Кол-во об. марки": "233",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/geely/all/",
+      "Модель": "Monjaro",
+      "Кол-во об. модели": "62",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/geely/monjaro/all/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Geely",
+      "Кол-во об. марки": "233",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/geely/all/",
+      "Модель": "Emgrand",
+      "Кол-во об. модели": "38",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/geely/emgrand/new/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Geely",
+      "Кол-во об. марки": "233",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/geely/all/",
+      "Модель": "Coolray",
+      "Кол-во об. модели": "37",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/geely/coolray/new/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Geely",
+      "Кол-во об. марки": "233",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/geely/all/",
+      "Модель": "Atlas Pro",
+      "Кол-во об. модели": "34",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/geely/atlas_pro/new/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Geely",
+      "Кол-во об. марки": "233",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/geely/all/",
+      "Модель": "Tugella",
+      "Кол-во об. модели": "30",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/geely/tugella/all/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Nissan",
+      "Кол-во об. марки": "11",
+      "Ссылка на марку": "https://auto.ru/altay/cars/nissan/all/",
+      "Модель": "Terrano",
+      "Кол-во об. модели": "2",
+      "Ссылка на модель": "https://auto.ru/altay/cars/nissan/terrano/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Nissan",
+      "Кол-во об. марки": "11",
+      "Ссылка на марку": "https://auto.ru/altay/cars/nissan/all/",
+      "Модель": "Pathfinder",
+      "Кол-во об. модели": "2",
+      "Ссылка на модель": "https://auto.ru/altay/cars/nissan/pathfinder/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Nissan",
+      "Кол-во об. марки": "11",
+      "Ссылка на марку": "https://auto.ru/altay/cars/nissan/all/",
+      "Модель": "X-Trail",
+      "Кол-во об. модели": "1",
+      "Ссылка на модель": "https://auto.ru/altay/cars/nissan/x_trail/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Nissan",
+      "Кол-во об. марки": "11",
+      "Ссылка на марку": "https://auto.ru/altay/cars/nissan/all/",
+      "Модель": "Sunny",
+      "Кол-во об. модели": "1",
+      "Ссылка на модель": "https://auto.ru/altay/cars/nissan/sunny/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "Nissan",
+      "Кол-во об. марки": "11",
+      "Ссылка на марку": "https://auto.ru/altay/cars/nissan/all/",
+      "Модель": "Qashqai",
+      "Кол-во об. модели": "1",
+      "Ссылка на модель": "https://auto.ru/altay/cars/nissan/qashqai/used/"
+    }
+  ]
+}

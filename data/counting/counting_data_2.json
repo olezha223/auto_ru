@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "Регион": "adygeya",
+      "Марка": "Haval",
+      "Кол-во об. марки": "135",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/haval/all/",
+      "Модель": "Jolion",
+      "Кол-во об. модели": "40",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/haval/jolion/all/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Haval",
+      "Кол-во об. марки": "135",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/haval/all/",
+      "Модель": "H3",
+      "Кол-во об. модели": "25",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/haval/h3/new/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Haval",
+      "Кол-во об. марки": "135",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/haval/all/",
+      "Модель": "F7x",
+      "Кол-во об. модели": "22",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/haval/f7x/all/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Haval",
+      "Кол-во об. марки": "135",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/haval/all/",
+      "Модель": "Dargo",
+      "Кол-во об. модели": "19",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/haval/dargo/new/"
+    },
+    {
+      "Регион": "adygeya",
+      "Марка": "Haval",
+      "Кол-во об. марки": "135",
+      "Ссылка на марку": "https://auto.ru/adygeya/cars/haval/all/",
+      "Модель": "M6",
+      "Кол-во об. модели": "16",
+      "Ссылка на модель": "https://auto.ru/adygeya/cars/haval/m6/new/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "УАЗ",
+      "Кол-во об. марки": "7",
+      "Ссылка на марку": "https://auto.ru/altay/cars/uaz/all/",
+      "Модель": "Patriot",
+      "Кол-во об. модели": "3",
+      "Ссылка на модель": "https://auto.ru/altay/cars/uaz/patriot/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "УАЗ",
+      "Кол-во об. марки": "7",
+      "Ссылка на марку": "https://auto.ru/altay/cars/uaz/all/",
+      "Модель": "Hunter",
+      "Кол-во об. модели": "3",
+      "Ссылка на модель": "https://auto.ru/altay/cars/uaz/hunter/used/"
+    },
+    {
+      "Регион": "altay",
+      "Марка": "УАЗ",
+      "Кол-во об. марки": "7",
+      "Ссылка на марку": "https://auto.ru/altay/cars/uaz/all/",
+      "Модель": "3151",
+      "Кол-во об. модели": "1",
+      "Ссылка на модель": "https://auto.ru/altay/cars/uaz/3151/used/"
+    }
+  ]
+}
